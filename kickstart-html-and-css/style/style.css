@@ -40,3 +40,7 @@ h2{
 
     /* merging padding inline element e kora jay na  */
 }
+
+.btn:hover{
+    background-color: green;
+}
